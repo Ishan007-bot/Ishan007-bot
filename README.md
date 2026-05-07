@@ -1,4 +1,12 @@
-# Hi 👋, I'm Ishan Ganguly
+<h1 align="center">Hey there, I'm Ishan Ganguly <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&random=false&width=500&lines=Full+Stack+Developer+%F0%9F%92%BB;Open+Source+Contributor+%F0%9F%8C%8D;Software+Engineer+%F0%9F%9A%80;AI+/+ML+Enthusiast+%E2%9C%85" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
 
 ### 🧠​ Computer Science student at Scaler School of Technology / Bits Pilani <br/> ​🌌​ Aspiring Software Developer <br/> ​🎥  UI/UX Designer <br/> 🪻 Building @SpotHole <br/> 💫 Competitive Programming 
 
