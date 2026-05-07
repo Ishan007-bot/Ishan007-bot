@@ -24,9 +24,58 @@
 
 <br>
 
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=Ishan007-bot&theme=dracula&hide_border=false&include_all_commits=false&count_private=false" />
+</p>
+
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishan007-bot&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
+
+<br> 
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Ishan007-bot&theme=radical&hide_border=true&layout=compact" />
+</p>
+
+<br>
+<br>
+
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
+
+<br>
+
+
+  ## 💻 My Tech Stack
+  <br>
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="30" alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=py" height="30" alt="python logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="30" alt="java logo" />
+  <img src="https://skillicons.dev/icons?i=bash" height="30" alt="bash logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="30" alt="html5 logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="30" alt="css3 logo" />
+  <img src="https://skillicons.dev/icons?i=vite" height="30" alt="vite logo" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="30" alt="tailwind logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="30" alt="nodejs logo" />
+  <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo" />
+  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo" />
+  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo" />
+  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring boot logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="30" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="30" alt="mongodb logo" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="30" alt="docker logo" />
+  <img src="https://skillicons.dev/icons?i=vercel" height="30" alt="vercel logo" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="30" alt="github actions logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="30" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=postman" height="30" alt="postman logo" />
+  <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo" />
+</div>
+
 
 # 🌐 Socials:
 <p align="left">
