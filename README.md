@@ -8,7 +8,15 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
 
-### 🧠​ Computer Science student at Scaler School of Technology / Bits Pilani <br/> ​🌌​ Aspiring Software Developer <br/> ​🎥  UI/UX Designer <br/> 🪻 Building @SpotHole <br/> 💫 Competitive Programming 
+<h4 align="left">
+  🔭 I'm an AI/ML Enthusiast and a Software Engineer specializing in scalable web apps, backend systems & AI-powered solutions.<br>
+  🌍 Open Source Contributor at <b>INNO-TECH</b> (Innovate) — 25+ PRs merged.<br>
+  🎓 CS Undergrad at <b>BITS Pilani</b><br>
+  📍 Building @SPOTHOLE<br>
+  💬 All my projects are available at <a href="https://github.com/Ishan007-bot">github.com/Ishan007-bot</a>
+  <br>
+  <br>
+</h4>
 
 <img align="right" alt = "coding" width= "400" src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
