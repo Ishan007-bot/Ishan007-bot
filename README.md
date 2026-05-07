@@ -44,8 +44,6 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
 
-<br>
-
 
   ## 💻 My Tech Stack
   <br>
@@ -76,6 +74,11 @@
   <img src="https://skillicons.dev/icons?i=tensorflow" height="30" alt="tensorflow logo" />
 </div>
 
+<br>
+
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
 
 # 🌐 Socials:
 <p align="left">
