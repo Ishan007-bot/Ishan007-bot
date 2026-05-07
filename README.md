@@ -97,12 +97,19 @@
 
 <br>
 
-### 🟡 Contributions Pacman
+### 🟡 Contributions Snake
 
-<h6 align="center">Contributions Pacman</h6>
+<h6 align="center">Contributions Snake</h6>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishan007-bot/Ishan007-bot/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishan007-bot/Ishan007-bot/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ishan007-bot/Ishan007-bot/output/pacman-contribution-graph.svg">
 </picture>
+
+<br>
+<br> 
+
+<p align="center">
+  <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+</p>
