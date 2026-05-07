@@ -97,9 +97,9 @@
 
 <br>
 
-### 🟡 Contributions Snake
+### 🟡 Contributions Pacman
 
-<h6 align="center">Contributions Snake</h6>
+<h6 align="center">Contributions Pacman</h6>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishan007-bot/Ishan007-bot/output/pacman-contribution-graph-dark.svg">
