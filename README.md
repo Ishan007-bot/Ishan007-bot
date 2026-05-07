@@ -16,11 +16,17 @@
   💬 All my projects are available at <a href="https://github.com/Ishan007-bot">github.com/Ishan007-bot</a>
   <br>
   <br>
+  <br>
+  
 </h4>
 
-<img align="right" alt = "coding" width= "400" src= "https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
 ![](https://komarev.com/ghpvc/?username=Ishan007-bot)
+
+<br>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishan007-bot&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
 
 # 🌐 Socials:
 <p align="left">
@@ -36,11 +42,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=Ishan007-bot&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Ishan007-bot&theme=chartreuse-dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ishan007-bot&theme=chartreuse-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imajij&theme=tokyonight" alt="GitHub Streak Stats" />
-</div>
-
 
 
 ### 🔝 Top Contributed Repo
