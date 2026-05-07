@@ -45,7 +45,7 @@
 </p>
 
 
-  ## 💻 My Tech Stack
+  ## 💻 My Tech Stack :
   <br>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
@@ -80,7 +80,7 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 </p>
 
-## 🌐 Socials:
+## 🌐 Socials :
 
 <br> 
 
@@ -89,4 +89,20 @@
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/Ishan007-bot) 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ishanganguly10a12@gmail.com)
 
+<br>
 
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" height="280" width="500" alt="coding gif" />
+</div>
+
+<br>
+
+### 🟡 Contributions Pacman
+
+<h6 align="center">Contributions Pacman</h6>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ishan007-bot/Ishan007-bot/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ishan007-bot/Ishan007-bot/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Ishan007-bot/Ishan007-bot/output/pacman-contribution-graph.svg">
+</picture>
