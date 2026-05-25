@@ -45,7 +45,7 @@
 </p>
 
 
-  ## 💻 My Tech Stack :
+  ## 💻 My Tech Stack : 
   <br>
 <div align="left">
   <img src="https://skillicons.dev/icons?i=js" height="30" alt="javascript logo" />
